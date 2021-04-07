@@ -1,1 +1,1 @@
-# Java-DS-Algo
+# DS-Algo
