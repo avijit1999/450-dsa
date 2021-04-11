@@ -1,5 +1,4 @@
 ## DS-Algo
 
-# Math
+1.[Math](Math)
 
-1. [Factorial of a number](Math/factorial.java)
