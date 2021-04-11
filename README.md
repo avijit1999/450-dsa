@@ -8,4 +8,4 @@
 5.  [Sieve of Eratosthenes]
 6.  [Euclid GCD]  : [Proof](www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
 
-[Array]
+# [Array]
