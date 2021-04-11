@@ -5,7 +5,7 @@
 2.  [Find the number of trailing zeros in a Factorial](TrailingZeroes.java)
 3.  [Check if the number is Palindrome](PalindromeNumber.java)
 4.  [cheak if a number is Prime Number or not](isPrimeNumber.java)
-5.  [Sieve of Eratosthenes]
+5.  [Sieve of Eratosthenes](SieveOfErotosthenes.java)
 6.  [Euclid GCD]  : [Proof](www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
 
 # [Array]
