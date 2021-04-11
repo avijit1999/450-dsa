@@ -1,1 +1,1 @@
-1.[Factorial of a Number](Factorial.java)
+1.  [Factorial of a Number](Factorial.java)
