@@ -8,5 +8,5 @@
 5.  [Sieve of Eratosthenes](Math/SieveOfErotosthenes.java)
 6.  [Euclid GCD](Math/GCD.java)  : [Proof](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
 
-# [Recursion]
-1.  [Print Hello n times using Recursion]
+# [Recursion](Recursion)
+1.  [Print Hello n times using Recursion](/Recursion/Hello.java)
