@@ -6,6 +6,6 @@
 3.  [Check if the number is Palindrome](Math/PalindromeNumber.java)
 4.  [cheak if a number is Prime Number or not](Math/isPrimeNumber.java)
 5.  [Sieve of Eratosthenes](Math/SieveOfErotosthenes.java)
-6.  [Euclid GCD]  : [Proof](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
+6.  [Euclid GCD](Math/GCD.java)  : [Proof](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
 
 # [Array]
