@@ -10,3 +10,4 @@
 
 # [Recursion](Recursion)
 1.  [Print Hello n times using Recursion](/Recursion/Hello.java)
+2.  [Find the sum of n Natural numbers using Recursion](/Recursion/SumOfN/java)
