@@ -1,5 +1,5 @@
 ## DS-Algo
-#[Bit-Manipulation](Bit-Manipulation)
+#   [Bit-Manipulation](Bit-Manipulation)
 1.  [Cheak a number is even](/Bit-Manipulation/isEven.java)
 
 #  [Math](Math)
