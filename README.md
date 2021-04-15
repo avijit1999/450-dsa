@@ -2,7 +2,7 @@
 #   [Bit-Manipulation](Bit-Manipulation)
 1.  [Cheak a number is even](/Bit-Manipulation/isEven.java)
 2.  [Swap two number](/Bit-Manipulation/Swap.java)
-3.  [Find ith bit](/Bit-Manipulation/FindBit.java
+3.  [Find ith bit](/Bit-Manipulation/FindBit.java)
 
 #  [Math](Math)
 1.  [Factorial of a Number](Math/factorial.java)
