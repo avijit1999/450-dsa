@@ -5,6 +5,7 @@
 3.  [Find ith bit](/Bit-Manipulation/FindBit.java)
 4.  [Set ith bit](/Bit-Manipulation/SetBit.java)
 5.  [Reset ith bit](/Bit-Manipulation/ResetBit.java)
+6.  [Count number of bits to be flipped to convert A to B](/Bit-Manipulation/A2B_Bit.java)
 
 #  [Math](Math)
 1.  [Factorial of a Number](Math/factorial.java)
