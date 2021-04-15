@@ -1,7 +1,7 @@
 ## DS-Algo
 #   [Bit-Manipulation](Bit-Manipulation)
 1.  [Cheak a number is even](/Bit-Manipulation/isEven.java)
-2.  [Sap two number](/Bit-Manipulation/Swap.java)
+2.  [Swap two number](/Bit-Manipulation/Swap.java)
 
 #  [Math](Math)
 1.  [Factorial of a Number](Math/factorial.java)
