@@ -19,3 +19,4 @@
 1.  [Print Hello n times using Recursion](/Recursion/Hello.java)
 2.  [Find the sum of n Natural numbers using Recursion](/Recursion/SumOfN.java)
 3.  [Calculate pow(a,b) using Recursion](/Recursion/power.java)
+4.  [Number of ways in an nxm matrix](/Recursion/NumberOfWays.java)
