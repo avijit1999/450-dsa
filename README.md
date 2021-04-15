@@ -4,6 +4,7 @@
 2.  [Swap two number](/Bit-Manipulation/Swap.java)
 3.  [Find ith bit](/Bit-Manipulation/FindBit.java)
 4.  [Set ith bit](/Bit-Manipulation/SetBit.java)
+5.  [Reset ith bit](/Bit-Manipulation/ResetBit.java)
 
 #  [Math](Math)
 1.  [Factorial of a Number](Math/factorial.java)
