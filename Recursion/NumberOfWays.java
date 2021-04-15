@@ -5,15 +5,15 @@ public class NumberOfWays{
         Scanner sc=new Scanner(System.in);
         int m=sc.nextInt();
         int n=sc.nextInt();
-        int ans=f(m,n);
+        int ans=count(m,n);
         System.out.print(ans);
      }
-     static int f(int x,int y)
+     static int count(int x,int y)
      {
         if((x==1)||(y==1))
         {
             return(1);
         }
-        return(f(x,y-1)+f(x-1,y));
+        return(count(x,y-1)+count(x-1,y));
      }
 }
