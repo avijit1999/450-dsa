@@ -6,6 +6,7 @@
 4.  [Set ith bit](/Bit-Manipulation/SetBit.java)
 5.  [Reset ith bit](/Bit-Manipulation/ResetBit.java)
 6.  [Count number of bits to be flipped to convert A to B](/Bit-Manipulation/A2B_Bit.java)
+7.  [Find the only non-repeating element in an array where every other element repeats twice.](/Bit-Manipulation/NonRepeatingElement.java)
 
 #  [Math](Math)
 1.  [Factorial of a Number](Math/factorial.java)
