@@ -23,5 +23,5 @@
 4.  [Number of ways in an nxm matrix](/Recursion/NumberOfWays.java)
 
 
-#[Array](Array)
+# [Array](Array)
 1.  [Create an Array of size 10 of integers. Take input from the user for these 10 elements and print the entire array after that](/Array/Array1.java)
