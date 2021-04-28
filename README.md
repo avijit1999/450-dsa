@@ -27,3 +27,4 @@
 1.  [Create an Array of size 10 of integers. Take input from the user for these 10 elements and print the entire array after that](/Array/Array1.java)
 2.  [Check whether n is present in an array of size m or not.Input -n,m (Input number, size of array)-Take input n elements for the array,Output -> true/false](/Array/Array2.java)
 3.  [Find the minimum and maximum element in an array.](/Array/Array3.java)
+4.  [Write a program to reverse the array.](/Array/Array4.java)
