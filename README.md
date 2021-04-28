@@ -28,3 +28,4 @@
 2.  [Check whether n is present in an array of size m or not.Input -n,m (Input number, size of array)-Take input n elements for the array,Output -> true/false](/Array/Array2.java)
 3.  [Find the minimum and maximum element in an array.](/Array/Array3.java)
 4.  [Write a program to reverse the array.](/Array/Array4.java)
+5.  [Write a program to sort the given array.](/Array/Array5.java)
