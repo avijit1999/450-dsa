@@ -29,3 +29,4 @@
 3.  [Find the minimum and maximum element in an array.](/Array/Array3.java)
 4.  [Write a program to reverse the array.](/Array/Array4.java)
 5.  [Write a program to sort the given array.](/Array/Array5.java)
+6.  [Find the Kth largest and Kth smallest number in an array.](/Array/Array6.java)
