@@ -30,3 +30,4 @@
 4.  [Write a program to reverse the array.](/Array/Array4.java)
 5.  [Write a program to sort the given array.](/Array/Array5.java)
 6.  [Find the Kth largest and Kth smallest number in an array.](/Array/Array6.java)
+7.  [Find the range of the array. Range means the difference between the maximum and minimum element in the array.](/Array/Array7.java)
