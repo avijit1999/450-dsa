@@ -36,3 +36,4 @@
 10. [Write a program to cyclically rotate an array by one.](/Array/Array10.java)
 11. [You are given a list of n-1 integers and these integers are in the range of 1 to n. There are no duplicates in the list. One of the integers is missing in the list. Write an efficient code to find the missing integer.](/Array/Array11.java)
 12. [Find all pairs on integer array whose sum is equal to given number.](/Array/Array12.java)
+13. [Find duplicates in an array.](/Array/Array13.java)
