@@ -1,7 +1,7 @@
 //Babbar
 import java.io.*;
 import java.util.*;
-public class HelloWorld{
+public class Array13{
 
      public static void main(String []args){
         Scanner sc=new Scanner(System.in);
