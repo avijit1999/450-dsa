@@ -33,3 +33,4 @@
 7.  [Find the range of the array. Range means the difference between the maximum and minimum element in the array.](/Array/Array7.java)\
 8.  [Move all the negative elements to one side of the array.](/Array/Array8.java)
 9.  [Find the Union and Intersection of the two sorted arrays.](/Array/Array9.java)
+10. [Write a program to cyclically rotate an array by one.](/Array/Array10.java)
