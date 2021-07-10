@@ -9,7 +9,7 @@ public class Reverse_the_array{
         {
             A[i]=sc.nextInt();
         }
-        for(int i=0;i<=n/2;i++)
+        for(int i=0;i<n/2;i++)
         {
             int t=A[i];
             A[i]=A[n-i-1];
