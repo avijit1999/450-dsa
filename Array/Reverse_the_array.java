@@ -1,19 +1,23 @@
-//GFG
-//Reverse a String
+import java.util.Scanner;
+public class Reverse_the_array{
 
-class Reverse
-{
-    // Complete the function
-    // str: input string
-    public static String reverseWord(String str)
-    {
-        // Reverse the string str
-        String s="";
-        for(int i=str.length()-1;i>=0;i--)
+     public static void main(String []args){
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+        int[] A=new int[n];
+        for(int i=0;i<n;i++)
         {
-            char ch=str.charAt(i);
-            s+=Character.toString(ch);
+            A[i]=sc.nextInt();
         }
-        return(s);
-    }
+        for(int i=0;i<=n/2;i++)
+        {
+            int t=A[i];
+            A[i]=A[n-i-1];
+            A[n-i-1]=t;
+        }
+        for(int i=0;i<n;i++)
+        {
+            System.out.print(A[i]+" ");
+        }
+     }
 }
