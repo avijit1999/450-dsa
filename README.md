@@ -7,7 +7,7 @@
   6. [Find the Union and Intersection of the two sorted arrays.](Array/UnionIntersect.java)
   7. [Write a program to cyclically rotate an array by one.](Array/Rotate.java)
   8. [find Largest sum contiguous Subarray [V. IMP]](Array/Kadane'sAlgo.java)
-  9. [Minimise the maximum difference between heights [V.IMP]](#)
+  9. [Minimise the maximum difference between heights [V.IMP]]
   10. [Minimum no. of Jumps to reach end of an array](#)
   11. [find duplicate in an array of N+1 Integers](Array/Leetcode287.java)
   12. [Merge 2 sorted arrays without using Extra space.](#)
