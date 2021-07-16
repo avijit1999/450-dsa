@@ -7,4 +7,5 @@
   6. [Find the Union and Intersection of the two sorted arrays.](Array/UnionIntersect.java)
   7. [Write a program to cyclically rotate an array by one.](Array/Rotate.java)
   8. [find Largest sum contiguous Subarray [V. IMP]](Array/Kadane'sAlgo.java)
+  9. [find duplicate in an array of N+1 Integers](Array/Leetcode287.java)
   
