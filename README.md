@@ -7,5 +7,5 @@
   6. [Find the Union and Intersection of the two sorted arrays.](Array/UnionIntersect.java)
   7. [Write a program to cyclically rotate an array by one.](Array/Rotate.java)
   8. [find Largest sum contiguous Subarray [V. IMP]](Array/Kadane'sAlgo.java)
-  9. [Minimise the maximum difference between heights [V.IMP]]
-  10.[Minimum no. of Jumps to reach end of an array]
+  9. [Minimise the maximum difference between heights [V.IMP]](#)
+  10.[Minimum no. of Jumps to reach end of an array](#)
