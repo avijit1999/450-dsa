@@ -11,12 +11,14 @@ public class UnionIntersect{
         {
             A[i]=sc.nextInt();
         }
+        Arrays.sort(A);
         int n=sc.nextInt();
         int[] B=new int[n];
         for(int i=0;i<n;i++)
         {
             B[i]=sc.nextInt();
         }
+        Arrays.sort(B);
         HashSet<Integer> Union=new HashSet<Integer>();
         Union=union(A,B);
         System.out.print(Union);
