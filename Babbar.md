@@ -127,7 +127,7 @@
   34. Find the inversion count
   35. Implement Merge-sort in-place
   36. Partitioning and Sorting Arrays with Many Repeated Entries
- # Link Liat
+ # Link List
   1. Write a Program to reverse the Linked List. (Both Iterative and recursive)
   2. Reverse a Linked List in group of Given Size. [Very Imp]
   3. Write a program to Detect loop in a linked list.
