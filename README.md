@@ -30,7 +30,7 @@ It is useful for placement it include Babbar SDE Sheet
   27. Find whether an array is a subset of another array
   28. Find the triplet that sum to a given value
   29. Trapping Rain water problem
-  30. Chocolate Distribution problem
+  30. [Chocolate Distribution problem](Array/chocolateDistributionProblem.java)
   31. Smallest Subarray with sum greater than a given value
   32. Three way partitioning of an array around a given value
   33. Minimum swaps required bring elements less equal K together
