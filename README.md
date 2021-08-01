@@ -1,4 +1,4 @@
-It is useful for placement it include Babbar SDE SHEEt
+It is useful for placement it include Babbar SDE Sheet
 
 # Arrays
   1. [Reverse the array](Array/reverseTheArray.java )
