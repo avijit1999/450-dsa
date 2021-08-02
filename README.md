@@ -40,7 +40,7 @@ It is useful for placement it include Babbar SDE Sheet
 # Matrix  
   1. Spiral traversal on a Matrix
   2. [Search an element in a matriix](Matrix/Search.java)
-  3. Find median in a row wise sorted matrix
+  3. [Find median in a row wise sorted matrix](Matrix/Median.java)
   4. Find row with maximum no. of 1's
   5. Print elements in sorted order using row-column wise sorted matrix
   6. Maximum size rectangle
