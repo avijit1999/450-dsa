@@ -39,7 +39,7 @@ It is useful for placement it include Babbar SDE Sheet
   36. Median of 2 sorted arrays of different size
 # Matrix  
   1. Spiral traversal on a Matrix
-  2. Search an element in a matriix
+  2. [Search an element in a matriix](Matrix/Search.java)
   3. Find median in a row wise sorted matrix
   4. Find row with maximum no. of 1's
   5. Print elements in sorted order using row-column wise sorted matrix
