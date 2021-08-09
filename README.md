@@ -49,7 +49,7 @@ It is useful for placement it include Babbar SDE Sheet
   9. Kth smallest element in a row-cpumn wise sorted matrix
   10. Common elements in all rows of a given matrix
 # String
-  1. Reverse a String
+  1. [Reverse a String](string/ReverseString.java)
   2. Check whether a String is Palindrome or not
   3. Find Duplicate characters in a string
   4. Why strings are immutable in Java?
