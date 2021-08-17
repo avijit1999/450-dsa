@@ -50,7 +50,7 @@ It is useful for placement it include Babbar SDE Sheet
   10. Common elements in all rows of a given matrix
 # String
   1. [Reverse a String](String/ReverseString.java)
-  2. Check whether a String is Palindrome or not
+  2. [Check whether a String is Palindrome or not](String/IsPalindrome.java)
   3. Find Duplicate characters in a string
   4. Why strings are immutable in Java?
   5. Write a Code to check whether one string is a rotation of another
