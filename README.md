@@ -138,7 +138,7 @@ It is useful for placement it include Babbar SDE Sheet
   6. Remove Duplicates in a sorted Linked List.
   7. Remove Duplicates in a Un-sorted Linked List.
   8. Write a Program to Move the last element to Front in a Linked List.
-  9. Add “1” to a number represented as a Linked List.
+  9. [Add “1” to a number represented as a Linked List.](LinkList/AddOne.java)
   10. Add two numbers represented by linked lists.
   11. Intersection of two Sorted Linked List.
   12. Intersection Point of two Linked Lists.
