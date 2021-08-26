@@ -94,7 +94,7 @@ It is useful for placement it include Babbar SDE Sheet
   43. Recursively print all sentences that can be formed from list of word lists
 # Searching & Sorting
   1. Find first and last positions of an element in a sorted array
-  2. [Find a Fixed Point (Value equal to index) in a given array](Searching & Sorting/ValueEqualToIndex.java)
+  2. [Find a Fixed Point (Value equal to index) in a given array](Searching_&_Sorting/ValueEqualToIndex.java)
   3. Search in a rotated sorted array
   4. square root of an integer
   5. Maximum and minimum of an array using minimum number of comparisons
