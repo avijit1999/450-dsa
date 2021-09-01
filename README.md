@@ -284,7 +284,7 @@ It is useful for placement it include Babbar SDE Sheet
  # Stacks & Queues
   1. Implement Stack from Scratch
   2. Implement Queue from Scratch
-  3. Implement 2 stack in an array
+  3. [Implement 2 stack in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1#)
   4. find the middle element of a stack
   5. Implement "N" stacks in an Array
   6. Check the expression has valid or Balanced parenthesis or not.
