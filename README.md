@@ -205,7 +205,7 @@ It is useful for placement it include Babbar SDE Sheet
  # Binary Search Trees
   1. Fin a value in a BST
   2. Deletion of a node in a BST
-  3. Find min and max value in a BST
+  3. [Find min and max value in a BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1)
   4. Find inorder successor and inorder predecessor in a BST
   5. Check if a tree is a BST or not 
   6. Populate Inorder successor of all nodes
