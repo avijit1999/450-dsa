@@ -55,7 +55,7 @@ It is useful for placement it include Babbar SDE Sheet
   4. Why strings are immutable in Java?
   5. Write a Code to check whether one string is a rotation of another
   6. Write a Program to check whether a string is a valid shuffle of two strings or not
-  7. Count and Say problem
+  7. [Count and Say problem](String/CountAndSay.java)
   8. Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]
   9. Find Longest Recurring Subsequence in String
   10. Print all Subsequences of a string.
