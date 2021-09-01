@@ -209,7 +209,7 @@ It is useful for placement it include Babbar SDE Sheet
   4. Find inorder successor and inorder predecessor in a BST
   5. Check if a tree is a BST or not 
   6. Populate Inorder successor of all nodes
-  7. Find LCA  of 2 nodes in a BST
+  7. [Find LCA  of 2 nodes in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1#)
   8. Construct BST from preorder traversal
   9. Convert Binary tree into BST
   10. Convert a normal BST into a Balanced BST
