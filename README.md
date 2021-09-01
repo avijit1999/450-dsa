@@ -287,7 +287,7 @@ It is useful for placement it include Babbar SDE Sheet
   3. [Implement 2 stack in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1#)
   4. find the middle element of a stack
   5. Implement "N" stacks in an Array
-  6. Check the expression has valid or Balanced parenthesis or not.
+  6. [Check the expression has valid or Balanced parenthesis or not.](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1#)
   7. Reverse a String using Stack
   8. Design a Stack that supports getMin() in O(1) time and O(1) extra space.
   9. Find the next Greater element
