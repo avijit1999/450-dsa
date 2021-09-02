@@ -41,7 +41,7 @@ It is useful for placement it include Babbar SDE Sheet
   1. Spiral traversal on a Matrix
   2. [Search an element in a matriix](Matrix/Search.java)
   3. [Find median in a row wise sorted matrix](Matrix/Median.java)
-  4. Find row with maximum no. of 1's
+  4. [Find row with maximum no. of 1's](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1#)
   5. Print elements in sorted order using row-column wise sorted matrix
   6. Maximum size rectangle
   7. Find a specific pair in matrix
