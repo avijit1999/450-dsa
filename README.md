@@ -29,7 +29,7 @@ It is useful for placement it include Babbar SDE Sheet
   26. Maximum profit by buying and selling a share atmost twice
   27. Find whether an array is a subset of another array
   28. Find the triplet that sum to a given value
-  29. Trapping Rain water problem
+  29. [Trapping Rain water problem](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1#)
   30. [Chocolate Distribution problem](Array/chocolateDistributionProblem.java)
   31. Smallest Subarray with sum greater than a given value
   32. Three way partitioning of an array around a given value
