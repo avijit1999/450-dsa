@@ -226,7 +226,7 @@ It is useful for placement it include Babbar SDE Sheet
   21. Largest BST in a Binary Tree [ V.V.V.V.V IMP ]
   22. Flatten BST to sorted list
  # Greedy
-  1. Activity Selection Problem[___c___](Greedy/ActivitySelection.c)
+  1. Activity Selection Problem[ c ](Greedy/ActivitySelection.c)
   2. Job SequencingProblem
   3. Huffman Coding
   4. Water Connection Problem
